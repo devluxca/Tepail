@@ -10,7 +10,7 @@
 </p>
 <br/>
 <h2>Sinopse</h2>
-Tepail is a temporary e-mail developed in python for using in Terminal.
+Tepail é um e-mail temporario desenvolvido em Python para usar no terminal.
 
 <h2>Motivação</h2>
 
@@ -28,7 +28,7 @@ Eu criei o Tepail para tornar a vida mais fácil para as pessoas que precisam de
 Basta executar o comando abaixo em seu terminal.
 <pre><code> wget https://raw.githubusercontent.com/alivemindset/Tepail/master/Tepail.py && sudo chmod +x Tepail.py && sudo mv Tepail.py /usr/bin/tepail </code></pre>
 
-<h2>Use</h2>
+<h2>Uso</h2>
 Após executar o comando informado a cima, nós precisamos executar o programa. Para isto, execute o comando:
 <pre><code>sudo tepail</pre></code>
 <p>Em seguida ele ira pedir: <p/>
