@@ -27,14 +27,14 @@ I created Tepail to make life easier for people who need a temporary e-mail quic
 
 <h3>How to install the prerequisites</h3>
 
-To install pip in Debian and derivatives
+To install pip in Debian and derivatives:
 <pre><code>sudo apt install python3-pip</code></pre>
  
-To install pip in Arch Linux
+To install pip in Arch Linux:
 <pre><code>sudo pacman -S python-pip</code></pre>
 
 To install the bs4 library:
-<pre><code> pip3 install bs4 </code></pre>
+<pre><code>pip3 install bs4</code></pre>
 
 <h3>How to install the Tepail</h3>
 Just run the command below on your terminal.
