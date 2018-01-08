@@ -28,14 +28,14 @@ Eu criei o Tepail para tornar a vida mais fácil para as pessoas que precisam de
 
 <h3>Como instalar os pré-requisitos</h3>
 
-Para instalar o pip no Debian e derivados
+Para instalar o pip no Debian e derivados:
 <pre><code>sudo apt install python3-pip</code></pre>
  
-Para instalar o pip no Arch Linux
+Para instalar o pip no Arch Linux:
 <pre><code>sudo pacman -S python-pip</code></pre>
 
 Para instalar a biblioteca bs4:
-<pre><code> pip3 install bs4 </code></pre>
+<pre><code>pip3 install bs4</code></pre>
 
 <h3>Como instalar o Tepail</h3>
 Basta executar o comando abaixo em seu terminal.
